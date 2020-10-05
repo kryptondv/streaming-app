@@ -4,6 +4,11 @@
       "title": "stream1",
       "description": "123",
       "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "123 Second stream",
+      "id": 2
     }
   ]
 }
